@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/linea-de-tiempo-rl.html" }
+  ]
+}
